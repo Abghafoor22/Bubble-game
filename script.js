@@ -1,4 +1,4 @@
-var timer = 1;
+var timer = 60;
 var score = 0;
 var randomHit;
 
